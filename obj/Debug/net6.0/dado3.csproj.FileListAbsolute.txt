@@ -1,0 +1,15 @@
+C:\Users\hymsoft\Desktop\Curso C# UTN\ejercicio\dado2\dado3\bin\Debug\net6.0\dado3.exe
+C:\Users\hymsoft\Desktop\Curso C# UTN\ejercicio\dado2\dado3\bin\Debug\net6.0\dado3.deps.json
+C:\Users\hymsoft\Desktop\Curso C# UTN\ejercicio\dado2\dado3\bin\Debug\net6.0\dado3.runtimeconfig.json
+C:\Users\hymsoft\Desktop\Curso C# UTN\ejercicio\dado2\dado3\bin\Debug\net6.0\dado3.dll
+C:\Users\hymsoft\Desktop\Curso C# UTN\ejercicio\dado2\dado3\bin\Debug\net6.0\dado3.pdb
+C:\Users\hymsoft\Desktop\Curso C# UTN\ejercicio\dado2\dado3\obj\Debug\net6.0\dado3.csproj.AssemblyReference.cache
+C:\Users\hymsoft\Desktop\Curso C# UTN\ejercicio\dado2\dado3\obj\Debug\net6.0\dado3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hymsoft\Desktop\Curso C# UTN\ejercicio\dado2\dado3\obj\Debug\net6.0\dado3.AssemblyInfoInputs.cache
+C:\Users\hymsoft\Desktop\Curso C# UTN\ejercicio\dado2\dado3\obj\Debug\net6.0\dado3.AssemblyInfo.cs
+C:\Users\hymsoft\Desktop\Curso C# UTN\ejercicio\dado2\dado3\obj\Debug\net6.0\dado3.csproj.CoreCompileInputs.cache
+C:\Users\hymsoft\Desktop\Curso C# UTN\ejercicio\dado2\dado3\obj\Debug\net6.0\dado3.dll
+C:\Users\hymsoft\Desktop\Curso C# UTN\ejercicio\dado2\dado3\obj\Debug\net6.0\refint\dado3.dll
+C:\Users\hymsoft\Desktop\Curso C# UTN\ejercicio\dado2\dado3\obj\Debug\net6.0\dado3.pdb
+C:\Users\hymsoft\Desktop\Curso C# UTN\ejercicio\dado2\dado3\obj\Debug\net6.0\dado3.genruntimeconfig.cache
+C:\Users\hymsoft\Desktop\Curso C# UTN\ejercicio\dado2\dado3\obj\Debug\net6.0\ref\dado3.dll
